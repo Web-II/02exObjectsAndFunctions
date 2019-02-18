@@ -18,7 +18,7 @@ Als de gebruiker zijn naam heeft ingegeven verschijnt een alert "It's good to me
 
 ![petRocksaysHello.png](/docs/images/petRock_niceToMeet.png "pet rock says nice to meet")
 
-Als er op Pet rock wordt geklikt wanneer de naam van de gebruiker reeds gekend is verschijnt een alert "I like the attention,*naam_gebruiker*. Thank you."
+Als er op Pet rock wordt geklikt wanneer de naam van de gebruiker reeds gekend is verschijnt een alert "I like the attention, *naam_gebruiker*. Thank you."
 
 In beide gevallen wordt na de alert het beeldje aangepast in rock_happy.png. Na 2 seconden wordt terug het beeldje rock.png getoond. 
 
