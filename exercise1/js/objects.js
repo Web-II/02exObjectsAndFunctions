@@ -1,3 +1,5 @@
+'use strict';
+
 // Creëer een object ‘myBicycle‘ met 3 properties:
 // speed met waarde 30,
 // gear met waarde 1 en
@@ -28,12 +30,12 @@
 
 // Verander de make van de gears naar 'Shimano'
 
-// Maak gebruik van object destrcuturing om de variabelen speed,
+// Maak gebruik van object destructuring om de variabelen speed,
 // frame en color de waarden van de overeenkomstige properties te geven
 // merk op: frame moet de waarde van de property frameMaterial krijgen.
 // Log de waarden van de variabelen naar de console
 
-// Maak gebruik van destrcuturing om de variabelen
+// Maak gebruik van destructuring om de variabelen
 // gearMake (waarde is de waarde van de property make van de property gears van myBicycle,
 // en extras (dit moet een array met alle extra's bevatten) te maken.
 // Log de verkregen waarden van gearMake en alle extra's (als een opsomming van strings, gescheiden door een ,)

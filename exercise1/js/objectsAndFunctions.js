@@ -1,7 +1,9 @@
+'use strict';
+
 const myBicycle = {
-	speed: 30,
-	gear: 1,
-	frameMaterial: 'carbon fibre'
+  speed: 30,
+  gear: 1,
+  frameMaterial: 'carbon fibre',
 };
 
 // Voeg een methode accelerate toe aan myBicycle

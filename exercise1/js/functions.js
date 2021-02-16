@@ -1,13 +1,15 @@
+'use strict';
+
 const aRedBicycle = {
-	speed: 30,
-	gear: 1,
-	color: 'red'
+  speed: 30,
+  gear: 1,
+  color: 'red',
 };
 
 const aGreenBicycle = {
-	speed: 15,
-	gear: 3,
-	color: 'green'
+  speed: 15,
+  gear: 3,
+  color: 'green',
 };
 
 // Schrijf een functie swapColors die de kleur van twee bicycles wisselt

@@ -1,3 +1,4 @@
+'use strict';
 // Schrijf een functie makeStringRepeater
 // De functie heeft 1 parameter, bv. nrOfTimes, die aangeeft hoeveel keer
 // een string moet herhaald worden.
