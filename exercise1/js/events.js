@@ -4,11 +4,6 @@
 // Na een aantal keer is de titel dan volledig verdwenen van het scherm.
 // Maak gebruik van het innerHTML attribuut dat de titel als string bevat
 
-// const h1 = document.getElementById('h1');
-// h1.onmouseover = function() {
-// 	this.innerHTML = this.innerHTML.slice(1, this.innerHTML.length);
-// };
-
 // Zorg dat het instellen van de event handler
 // gebeurt wanneer het window load event wordt getriggered.
 // Maak gebruik van een init functie expressie (const)
