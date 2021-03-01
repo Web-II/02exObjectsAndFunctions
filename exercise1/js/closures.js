@@ -6,7 +6,7 @@
 // i.e. een string, en retourneert de string, nrOfTimes aan elkaar geplakt
 
 // Gebruik dit om je code te testen:
-const stringDoubler = stringRepeater(2);
-const stringTripler = stringRepeater(3);
+const stringDoubler = makeStringRepeater(2);
+const stringTripler = makeStringRepeater(3);
 console.log(stringDoubler('abc ')); // abc abc
 console.log(stringTripler('def ')); // def def def
